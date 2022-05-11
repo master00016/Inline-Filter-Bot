@@ -42,7 +42,7 @@ A Telegram Bot for filter in Inline
 
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/CodeXBotz/Inline-Filter-Bot
+git clone https://github.com/master00016/Inline-Filter-Bot
 cd Inline-Filter-Bot
 pip3 install -r requirements.txt
 python3 InlineBot
