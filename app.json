@@ -9,7 +9,7 @@
         "inline"
     ],
     "repository": "https://github.com/master00016/Inline-Filter-Bot",
-    "logo": "https://telegra.ph/file/14d3013fda21281c54b61.jpg",
+    "logo": "https://telegra.ph/PLANETEXPRESSMARVEL-05-11",
     "env": {
         "TG_BOT_TOKEN": {
             "description": "Your Bot token, Get it from @Botfather",
@@ -17,7 +17,7 @@
         },
         "OWNER_ID": {
             "description": "An integer of consisting of your owner ID",
-            "value": "1250450587"
+            "value": "1070126339"
         },
         "APP_ID":{
             "description": "your app id, take it from my.telegram.org",
@@ -53,7 +53,7 @@
         },
         "FILTER_COMMAND": {
             "description": "Optional: Command for add filter",
-            "value": "add",
+            "value": "filter",
             "required": false
         },
         "DELETE_COMMAND": {
