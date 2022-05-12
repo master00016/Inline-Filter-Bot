@@ -8,7 +8,7 @@
         "bot",
         "inline"
     ],
-    "repository": "https://github.com/master00016/Inline-Filter-Bot",
+    "repository": "https://github.com/master00016",
     "logo": "https://telegra.ph/PLANETEXPRESSMARVEL-05-11",
     "env": {
         "TG_BOT_TOKEN": {
